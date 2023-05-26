@@ -1,0 +1,10 @@
+# 应用服务 WEB 访问端口
+server:
+  port: 8080
+# 配置kafka
+spring:
+  kafka:
+    bootstrap-servers: hadoop102:9092,hadoop103:9092
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer

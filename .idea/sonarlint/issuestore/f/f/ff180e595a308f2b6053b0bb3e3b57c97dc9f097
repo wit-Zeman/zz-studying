@@ -1,0 +1,6 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "/home" 3 times.(Úâ‡ä8£ôˆıÿ0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì¯ÙÅÿÿÿÿÿ8¤ôˆıÿ0
+k
+java:S1128"NRemove this unused import 'org.apache.flink.api.common.functions.MapFunction'.(ñ±Ø8¬ôˆıÿ0

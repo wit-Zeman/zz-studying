@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Flink/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Flink/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lambda/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lambda/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Nacos/nacos-client-a/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Nacos/nacos-client-a/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Nacos/nacos-client-b/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Nacos/nacos-client-b/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Nacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Nacos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Redis/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/01_eureka_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/02_openFeign/order_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/02_openFeign/order_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/02_openFeign/user_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/02_openFeign/user_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/03_hystrix/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/03_hystrix/rent_car_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/03_hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/03_hystrix/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/04_gateway/01_gateway_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/04_gateway/02_login_service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/04_gateway/03_gateway_config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/04_gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/04_gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springcloud/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/kafka-flink/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/kafka-flink/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/kafka-springboot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/kafka-springboot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kettle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kettle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

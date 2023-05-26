@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Springcloud/02_openFeign" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/01_eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/02_openFeign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/03_hystrix/_03_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/_03_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/03_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/03_hystrix/rent_car_service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/03_hystrix/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/02_openFeign/order_service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/02_openFeign/user_service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/_04_gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/04_gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/04_gateway/02_login_service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/04_gateway/01_gateway_service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud/04_gateway/03_gateway_config/pom.xml" />
+        <option value="$PROJECT_DIR$/kettle/pom.xml" />
+        <option value="$PROJECT_DIR$/Redis/pom.xml" />
+        <option value="$PROJECT_DIR$/Flink/pom.xml" />
+        <option value="$PROJECT_DIR$/Nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/Nacos/nacos-client-a/pom.xml" />
+        <option value="$PROJECT_DIR$/Nacos/nacos-client-b/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka/kafka-flink/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka/kafka-springboot/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

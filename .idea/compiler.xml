@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nacos-client-b" />
+        <module name="nacos-client-a" />
+        <module name="order_service" />
+        <module name="zz_studying" />
+        <module name="customer-service" />
+        <module name="03_gateway_config" />
+        <module name="01_gateway_service" />
+        <module name="Redis" />
+        <module name="rent_car_service" />
+        <module name="02_login_service" />
+        <module name="Nacos" />
+        <module name="Flink" />
+        <module name="kettle" />
+        <module name="user_service" />
+        <module name="01_eureka_server" />
+        <module name="02_openFeign" />
+        <module name="03_hystrix" />
+        <module name="kafka" />
+        <module name="kafka-springboot" />
+        <module name="Springcloud" />
+        <module name="kafka-flink" />
+        <module name="04_gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaSE" target="1.8" />
+      <module name="Lambda" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01_eureka_server" options="-parameters" />
+      <module name="01_gateway_service" options="-parameters" />
+      <module name="02_login_service" options="-parameters" />
+      <module name="03_gateway_config" options="-parameters" />
+      <module name="Redis" options="-parameters" />
+      <module name="customer-service" options="-parameters" />
+      <module name="order_service" options="-parameters" />
+      <module name="rent_car_service" options="-parameters" />
+      <module name="user_service" options="-parameters" />
+    </option>
+  </component>
+</project>

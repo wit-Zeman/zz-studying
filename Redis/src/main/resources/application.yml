@@ -1,0 +1,6 @@
+#Redis数据库配置
+spring:
+  redis:
+    host: 47.113.195.221 #主机号
+    port: 6379 #端口号
+    password: 123456 #数据库连接校验密码

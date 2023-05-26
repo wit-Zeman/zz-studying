@@ -1,0 +1,15 @@
+server:
+  port: 8082    #设置该服务端口
+
+spring:
+  application:
+    name: nacos-client-b    #实例名称
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848   #注册地址
+        username: nacos   #nacos账号
+        password: nacos   #nacos密码
+        namespace: cc1425c6-d3a7-4658-bea7-fc29543a63d1     #空间名称
+        group: group-b       #组名
+
